@@ -50,14 +50,7 @@ Cybersecurity Engineering Student at **USTHB** & Full-Stack Web Developer. I bui
 | **Kanban Task Manager** | Drag-and-drop task organization, user auth, responsive board view | `Node.js` `Express` `MySQL` `CSS3` |
 | **Pacific Dental Clinic** | Complete product specs (PRD/TRD) and UI wireframes for a clinical system | `Penpot` `UI/UX` `Specs` |
 
----
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ayoubcoding111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubcoding111&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
 
 ---
 
